@@ -1,1 +1,2 @@
-# gitfork-practice
+# 끝말잇기 뜨자 ㅋ
+1. 기러기
